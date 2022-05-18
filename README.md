@@ -1,2 +1,0 @@
-# Sample-lwc
-Project1
